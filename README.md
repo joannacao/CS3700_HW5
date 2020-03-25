@@ -7,3 +7,6 @@
 # Sieve of Eratosthenes with Actors: 
   To find java files: sieveOfEratosthenes/src/main/java/com/example
                       sieveOfEratosthenes/src/test/java/com/example
+                      
+# Sieve of Eratosthese:
+  cs3700_hw5_2
