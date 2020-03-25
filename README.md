@@ -12,6 +12,6 @@
   cs3700_hw5_2
   
 # Producer/Consumers 
-  cs3700_hw5_1_locks
-  cs3700_hw5_1_isolated_sections
-  cs3700_hw5_1_atomics
+  cs3700_hw5_1_locks                                                                                                               
+  cs3700_hw5_1_isolated_sections                                                                                                
+  cs3700_hw5_1_atomics                                                                                                        
